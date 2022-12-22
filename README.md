@@ -1,32 +1,21 @@
 <h1 align="center">
-  <img alt="cgapp logo" src="./assets/axios.png" width="224px"/><br/>
-  Axios Webwing sessions <br>
+  <img alt="cgapp logo" src="./src/assets/images/axios.png" width="224px"/><br/>
+  Axios Webwing session 1 <br>
+  Personal Portfolio <br>
+  (HTML / CSS)
 </h1>
 
 <p align="center">
-    The official repo for Axios webwing session for 2022-2026 batch of IIIT Lucknow
-</p>
-<br> <br> <br>
+    This is the official repo for the first session conducted by Axios web development wing for 2022-2026. 
 
-# Session 1
+    Project : 
+        - Personal Portfolio using HTML / CSS only
 
-### Topic : Personal Portfolio - HTML / CSS
+    Goals & Objectives : 
+        - Basic understanding of HTML tags and CSS
+        - Understanding and making changes to existing code
 
-<br>
-
-    Description :
-    A personal portfolio website made step by step using HTML & CSS
-    Portfolio will contain About Me, Projects, Education, Skills, Blogs, Contact and Personal Information
-
-    Learning & Objectives :
-    [X] : Basics of HTML & CSS
-    [X] : Modifying existing code
-    [X] : Deploying a static site using GH pages
-
-    Organisers :
+    Session Organisers:
         - Karthik S
         - Palash Baderia
-
-> All the assets for the project will be uploaded [here](https://drive.google.com/file/d/176i6nQ-Mn3_z3Cb6_3Qj46N68dhAbiIB/view?usp=share_link)
-
-> Final code will be uploaded [here](https://github.com/KarthikS373/Webwing-Axios-2022-sessions/tree/session-1)
+</p>
